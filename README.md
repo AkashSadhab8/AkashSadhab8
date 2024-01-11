@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="center">🙋🏻About me</h4>
+<h3 align="center">🙋🏻About me</h3>
 
 ###
 
-<p align="center">- 🔭 I’m a student at KiiT University<br>- 📚 I'm currently learning Full-Stack development🧑🏻‍💻<br>- ⚡ In my free time, I love to do Photography📸</p>
+<h4 align="center">- 🔭 I’m a student at KiiT University<br>- 📚 I'm currently learning Full-Stack development🧑🏻‍💻<br>- ⚡ In my free time, I love to do Photography📸</h4>
 
 ###
 
