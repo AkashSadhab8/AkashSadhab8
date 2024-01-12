@@ -1,14 +1,19 @@
 <h1 align="center">Hey There !👋🏻<br>I'm Akash Sadhab</h1>
 
 ###
+<p align="center">
+  <a href="https://github.com/AkashSadhab8/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;UI+/+UX+Designer;Aspiring+Learner&center=true&width=500&height=80"></a>
+</p>
 
 <h3 align="center">🙋🏻About me</h3>
 
 ###
 
-<h4 align="center">- 🔭 I’m a student at KiiT University<br>- 📚 I'm currently learning Full-Stack development🧑🏻‍💻<br>- ⚡ In my free time, I love to do Photography📸</h4>
+<h4 align="center">- 🔭 I’m a student of MCA at KIIT University<br>- 📚 I’m currently learning Fullstack Web Development🧑🏻‍💻<br>- 👯 Looking to collaborate with Fullstack Web and UI/UX projects.<br>- ⚡ In my free time, I love to do Photography📸</h4>
 
 ###
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <h2 align="center">What I know ?</h2>
 
@@ -67,6 +72,9 @@
 </div>
 
 ###
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashSadhab8&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph"  />
