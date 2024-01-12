@@ -5,11 +5,11 @@
   <a href="https://github.com/AkashSadhab8/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;UI+/+UX+Designer;Aspiring+Learner&center=true&width=500&height=80"></a>
 </p>
 
-<h3 align="center">🙋🏻About me</h3>
+<h3 align="left">🙋🏻About me</h3>
 
 ###
 
-<h4 align="center">- 🔭 I’m a student of MCA at KIIT University<br>- 📚 I’m currently learning Fullstack Web Development🧑🏻‍💻<br>- 👯 Looking to collaborate with Fullstack Web and UI/UX projects.<br>- ⚡ In my free time, I love to do Photography📸</h4>
+<h4 align="left">- 🔭 I’m a student of MCA at KIIT University<br>- 📚 I’m currently learning Fullstack Web Development🧑🏻‍💻<br>- 👯 Looking to collaborate with Fullstack Web and UI/UX projects.<br>- ⚡ In my free time, I love to do Photography📸</h4>
 
 ###
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
