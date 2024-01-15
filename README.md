@@ -5,7 +5,7 @@
   <a href="https://github.com/AkashSadhab8/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;UI+/+UX+Designer;Aspiring+Learner&center=true&width=500&height=80"></a>
 </p>
 
-<h3 align="left">🙋🏻About me</h3>
+<h3 align="center">🙋🏻About me</h3>
 
 ###
 
