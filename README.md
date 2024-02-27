@@ -41,7 +41,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=appwrite" height="60" alt="appwrite logo"  />
   <img width="12" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
@@ -69,6 +68,12 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svg" height="60" alt="svg logo"  />
 </div>
 
 ###
